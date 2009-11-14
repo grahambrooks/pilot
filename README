@@ -1,0 +1,9 @@
+Pilot is a web application that can help learn about application deployment.
+
+Design principles:
+
+    Minimal dependencies - dependencies make an application more difficult to deploy so minimising dependencies helps
+    make Pilot more applicable in more areas.
+
+    Minimal environmental requirements - similar to minimising dependencies. As far as possible Pilot should be
+    deployable into any Java web environment.
